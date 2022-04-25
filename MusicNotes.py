@@ -1,6 +1,7 @@
 # Made by Alex Lim
 # https://github.com/AlexLim-Pro
 
+
 A8 = 7040.00
 A7 = A8 / 2.0
 A6 = A7 / 2.0
